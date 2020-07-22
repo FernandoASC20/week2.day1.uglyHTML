@@ -1,0 +1,57 @@
+.top{
+    background-color:rgb(53,53,53);
+}
+
+body{
+    color: whitesmoke;
+    background-color: rgb(53,53,53);
+}
+
+header{
+    font-size: 72px;
+    text-align: center;
+
+}
+
+h3{
+    font-size: 26px;
+    text-align: center;
+}
+#multipule_watches_img{
+    text-align: center;
+}
+
+.text{
+    font-size: 16px;
+    font-family: unica one;
+}
+
+
+.watch_container{
+    
+    background-color: #1A1818;
+    border: solid;
+    border-color: #FDEFA6;
+    border-radius: 13px;
+    border-width: 2px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px
+    
+}
+
+.image_size{
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+
+
